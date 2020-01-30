@@ -1,2 +1,2 @@
 #!/bin/bash
-username -u betty 1000
+usermod -u betty 1000
