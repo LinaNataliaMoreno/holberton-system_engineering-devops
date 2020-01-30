@@ -1,1 +1,2 @@
 #!/bin/bash
+chown _hello betty chgrp _hello holberton
